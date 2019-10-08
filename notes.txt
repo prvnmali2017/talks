@@ -1,2 +1,4 @@
 https://www.youtube.com/watch?v=5zt-jzKHwX8
 https://github.com/bricef/gitops-tutorial
+https://www.slideshare.net/weaveworks/cloud-native-apps-with-gitops
+https://www.slideshare.net/weaveworks/gitops-modern-best-practices-for-high-velocity-app-dev-using-cloud-native-tools
