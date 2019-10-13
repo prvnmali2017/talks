@@ -103,6 +103,8 @@ spec:
         - --git-url=git@github.com:prvnmali2017/talks.git
         - --git-path=deploy/kubernetes
         - --git-branch=master
+        - --git-user=prvnmali2017
+        - --git-email=praveen.mali@dubber.net
 
         # include these next two to connect to an "upstream" service
         # (e.g., Weave Cloud). The token is particular to the service.
